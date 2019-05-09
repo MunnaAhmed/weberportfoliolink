@@ -2,9 +2,9 @@
 
 
 ## Please Check By Click
-#### (If you cant url please contact with me on gmail: munnaweber@gmail.com)
+#### (If you can't find any url please contact with me on gmail: munnaweber@gmail.com)
 
-My Simple Portfolio Links
+<p style="color: #00c851">My Simple Portfolio Links</p>
 
 - [Please Check it Here](http://sharmsit.com/portfolio). (More)
 - [Xrafts](http://xrafts.sharmsit.com).
